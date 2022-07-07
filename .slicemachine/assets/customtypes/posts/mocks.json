@@ -1,0 +1,61 @@
+{
+  "id": "45ed653b-246a-473c-8d0a-86fb1b800fd9",
+  "uid": "harum-non-consequatur",
+  "type": "posts",
+  "data": {
+    "title": "innovate plug-and-play eyeballs",
+    "subtitle": "scale best-of-breed platforms",
+    "author": "empower collaborative supply-chains",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "maximize vertical solutions",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Mollit magna do nostrud ex.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "incubate customized interfaces",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Veniam culpa veniam ipsum eiusmod anim non quis magna nisi eu in.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "iterate dot-com supply-chains",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Dolor aliqua aute dolore occaecat. Quis reprehenderit incididunt nulla commodo velit sint non. Sunt amet culpa do aliqua ut reprehenderit ut reprehenderit fugiat amet fugiat irure velit ipsum.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "leverage sexy technologies",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Laboris occaecat cupidatat occaecat laborum velit aliquip occaecat ipsum. Mollit exercitation eu dolor ullamco. Voluptate elit amet mollit dolore tempor enim adipisicing esse nulla.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
